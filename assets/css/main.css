@@ -1,0 +1,145 @@
+/* @font-face {
+    font-family:"Manrope-SemiBold" ;
+    src: url("../font/Manrope-SemiBold.ttf");
+} */
+
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.tem1 {
+    margin-top: -550px;
+    margin-left: -900px;
+}
+
+.tem2 {
+    margin-left: -700px;
+    margin-top: -250px;
+    /* font-family:"Manrope-Regular" ; */
+}
+.tem3{
+    margin-left: -700px;
+    margin-top: 1200px;
+    margin-left: -1300px;
+    color: white;
+    font-family:"Manrope-SemiBold" ;
+}
+.tem4{
+    width: 1440px;
+    height: 4105px;
+    margin-left: -1235px;
+    margin-top: 5000px;
+    background-color: black;
+}
+.tem5{
+    color: white;
+    margin-top: 1384px;
+    margin-left: -185px;
+}
+.tem6{
+    margin-top: 1500px;
+    margin-left: 200px;
+}
+.tem7{
+    margin-top: 2300px;
+    margin-left: -1200px;
+}
+.tem8{
+    margin-top: 2000px;
+    margin-left: 100px;
+    color: white;
+    font-family:"Manrope-SemiBold" ;
+}
+.tem9{
+    margin-top: 2200px;
+    margin-left: -390px;
+    color: white;
+}
+.tem10{
+    margin-top: 3000px;
+    margin-left: -1070px;
+    color: white;
+    font-family:"Manrope-SemiBold" ;
+}
+.tem11{
+    margin-top: 3116px;
+    margin-left: -240px;
+    color: white;
+}
+.tem12{
+    margin-top: 3900px;
+    margin-left: -700px;
+}
+.tem13{
+    margin-top: 4800px;
+    margin-left: -1170px;
+    color: white;
+    font-family:"Manrope-SemiBold" ;
+}
+.tem14{
+    margin-top: 4900px;
+    margin-left: -270px;
+    color: white;
+}
+.tem15{
+    margin-top: 5700px;
+    margin-left: -690px;
+ 
+}
+.tem16{
+    margin-top: 6500px;
+    margin-left: -1170px;
+    color: white;
+    font-family:"Manrope-SemiBold" ;
+}
+.tem17{
+    margin-top: 6650px;
+    margin-left: -400px;
+    color: white;
+}
+.tem18{
+    margin-top:7430px;
+    margin-left: -690px;
+
+}
+.tem19{
+    margin-top:8500px;
+    margin-left: -1000px;
+
+}
+.tem20{
+    margin-top:8700px;
+    margin-left: -800px;
+
+}
+.tem21{
+    margin-top:8900px;
+    margin-left: 200px;
+
+}
+
+    button{
+        width: 221px;
+    height: 54px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid transparent;
+        cursor: pointer;
+        font-size: 18px;
+        font-weight: 300;
+        transition: .5s;
+    margin-top:600px;
+    margin-left:-670px;
+    /* border-radius:5px; */
+    
+    }
+    button:hover{
+        color: white;
+        background-color: transparent;
+        border-color: white;
+    }
